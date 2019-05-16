@@ -4,8 +4,10 @@ node_modules
 # test downloads folder
 downloads
 
-# .exe
+# .exe and .zip/.rar files
 *.exe
+*.zip
+*.rar
 
 # personal version
 downloader.personal.js
