@@ -1,0 +1,17 @@
+{
+  "name": "ndl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloader.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "icon": "icon.ico",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}

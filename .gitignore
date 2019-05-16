@@ -1,0 +1,11 @@
+# node modules
+node_modules
+
+# test downloads folder
+downloads
+
+# .exe
+*.exe
+
+# personal version
+downloader.personal.js
